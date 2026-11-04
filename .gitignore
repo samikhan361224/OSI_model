@@ -1,0 +1,7 @@
+# Compiled binaries
+*.o
+*.obj
+
+# Keep .exe files in repo for graders who don't have MinGW
+# (comment out the next line to exclude them)
+# *.exe
