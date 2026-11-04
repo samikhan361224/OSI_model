@@ -2,7 +2,7 @@
 
 A high-level, interactive, educational, terminal-based **OSI 7-Layer Networking Simulation**. Developed with a **C-based Client & Server** communicating over real **TCP sockets** using packed binary protocol data units (PDUs), accompanied by an animated **Python Rich Visualizer** featuring zig-zag data flow, live progress checkpoints after every two layers, and deep protocol inspection.
 
-> **Project Author:** Akib Jawad  
+> **Project Author:** samiur rahman khan ** 
 > **Architecture:** C Client (Encapsulation) ➔ TCP Stream Socket (Port 9090) ➔ C Server (Decapsulation)  
 > **Visualization:** Python 3 + `rich` (Dashboard Layout, Live Zig-Zag Animation, Progress Tracking)
 
